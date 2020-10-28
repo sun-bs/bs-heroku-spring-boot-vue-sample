@@ -1,1 +1,1 @@
-# heroku-sprint-boot-vue-sample
+# heroku-spring-boot-vue-sample
